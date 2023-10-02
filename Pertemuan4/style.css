@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+.border-1 {
+    width: 200px;
+    border: 2px solid red;
+    margin-bottom: 10px;
+}
+
+.border-2 {
+    width: 200px;
+    border: 2px solid blue;
+    margin-bottom: 10px;
+}
+
+.border-3 {
+    width: 200px;
+    border: 2px solid blue;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+h2 {
+    font-size: 16px;
+    margin-top: -5px;
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+}
